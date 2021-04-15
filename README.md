@@ -1,2 +1,2 @@
-# rateLimitor
-A spring boot application for Implementing Rate limitor in an API
+# rateLimiter
+A spring boot application for Implementing Rate limiter in an API
